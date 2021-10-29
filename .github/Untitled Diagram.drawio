@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2021-10-29T20:33:21.053Z" agent="5.0 (Windows)" version="15.5.2" etag="FciDRWeSnPOorjoo2MGr" type="github"><diagram id="5ni_OW-WD-d_FD99dz9C">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-29T20:51:03.267Z" agent="5.0 (Windows)" etag="CrF19bcmEiUyzSJCm7IQ" version="15.5.2" type="github">
+  <diagram id="5ni_OW-WD-d_FD99dz9C" name="Page-1">
+    <mxGraphModel dx="1114" dy="1587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jDzC-xaB0_VsGPWmhapP-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="120" width="840" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="jDzC-xaB0_VsGPWmhapP-7" value="XBox" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="140" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jDzC-xaB0_VsGPWmhapP-14" value="PS4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jDzC-xaB0_VsGPWmhapP-16" value="EOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="140" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jDzC-xaB0_VsGPWmhapP-18" value="Shield" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="210" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jDzC-xaB0_VsGPWmhapP-19" value="Apple TV" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="140" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jDzC-xaB0_VsGPWmhapP-20" value="Nintendo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="210" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jDzC-xaB0_VsGPWmhapP-21" value="VOCÉ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="70" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jDzC-xaB0_VsGPWmhapP-22" value="AVR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="195" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jDzC-xaB0_VsGPWmhapP-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jDzC-xaB0_VsGPWmhapP-24" target="jDzC-xaB0_VsGPWmhapP-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jDzC-xaB0_VsGPWmhapP-24" value="AVEA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jDzC-xaB0_VsGPWmhapP-25" value="AVEA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="230" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jDzC-xaB0_VsGPWmhapP-26" value="Subwoofer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="380" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jDzC-xaB0_VsGPWmhapP-27" value="TV" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jDzC-xaB0_VsGPWmhapP-28" value="SOCKET 1" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=15;" vertex="1" parent="1">
+          <mxGeometry x="25" y="540" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jDzC-xaB0_VsGPWmhapP-29" value="&lt;div&gt;SOCKET 2&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=15;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="540" width="90" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
