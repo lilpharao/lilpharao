@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T21:00:12.313Z" agent="5.0 (Windows)" etag="qu13zlJQqNYdIe1onQIx" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-29T18:11:27.974Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="JnsObwDvmhdv4uETGCYT" version="15.8.7" type="github">
   <diagram id="5ni_OW-WD-d_FD99dz9C" name="Page-1">
-    <mxGraphModel dx="2062" dy="1939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1265" dy="1831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,10 +28,10 @@
         <mxCell id="jDzC-xaB0_VsGPWmhapP-22" value="AVR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" parent="1" vertex="1">
           <mxGeometry x="260" y="200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jDzC-xaB0_VsGPWmhapP-24" value="AVEA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;" parent="1" vertex="1">
+        <mxCell id="jDzC-xaB0_VsGPWmhapP-24" value="PlayBar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;" parent="1" vertex="1">
           <mxGeometry x="30" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jDzC-xaB0_VsGPWmhapP-25" value="AVEA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;" parent="1" vertex="1">
+        <mxCell id="jDzC-xaB0_VsGPWmhapP-25" value="PlayBar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;" parent="1" vertex="1">
           <mxGeometry x="1050" y="230" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jDzC-xaB0_VsGPWmhapP-26" value="Subwoofer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" parent="1" vertex="1">
