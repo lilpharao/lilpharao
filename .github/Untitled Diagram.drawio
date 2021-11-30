@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T18:14:31.731Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="hpIWP7PWHvxt50JXU_nU" version="15.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-30T07:57:36.507Z" agent="5.0 (Windows)" etag="Rds_YuaylZsUsX4Kkqtj" version="15.7.4" type="github">
   <diagram id="5ni_OW-WD-d_FD99dz9C" name="Page-1">
-    <mxGraphModel dx="1265" dy="1831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,22 +8,22 @@
           <mxGeometry x="166" y="80" width="838" height="190" as="geometry" />
         </mxCell>
         <mxCell id="jDzC-xaB0_VsGPWmhapP-14" value="PS4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" parent="1" vertex="1">
-          <mxGeometry x="585" y="230" width="80" height="40" as="geometry" />
+          <mxGeometry x="610" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jDzC-xaB0_VsGPWmhapP-16" value="EOS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" parent="1" vertex="1">
-          <mxGeometry x="310" y="300" width="80" height="40" as="geometry" />
+          <mxGeometry x="200" y="95" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jDzC-xaB0_VsGPWmhapP-18" value="Shield" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;" parent="1" vertex="1">
-          <mxGeometry x="260" y="100" width="80" height="40" as="geometry" />
+          <mxGeometry x="770" y="180" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jDzC-xaB0_VsGPWmhapP-19" value="Apple TV" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;" parent="1" vertex="1">
-          <mxGeometry x="770" y="180" width="80" height="40" as="geometry" />
+          <mxGeometry x="330" y="95" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jDzC-xaB0_VsGPWmhapP-20" value="Nintendo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;" parent="1" vertex="1">
           <mxGeometry x="900" y="180" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jDzC-xaB0_VsGPWmhapP-21" value="VOCÉ" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="545" y="90" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="90" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jDzC-xaB0_VsGPWmhapP-22" value="AVR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" parent="1" vertex="1">
           <mxGeometry x="260" y="200" width="80" height="40" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="900" y="310" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jDzC-xaB0_VsGPWmhapP-27" value="TV" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" parent="1" vertex="1">
-          <mxGeometry x="630" y="10" width="80" height="40" as="geometry" />
+          <mxGeometry x="505" y="10" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jDzC-xaB0_VsGPWmhapP-28" value="SOCKET 1" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=15;fillColor=#99FFFF;" parent="1" vertex="1">
           <mxGeometry x="25" y="135" width="90" height="80" as="geometry" />
